@@ -1,0 +1,4 @@
+python --version
+pip -V
+pip list
+pip install pyttsx3
